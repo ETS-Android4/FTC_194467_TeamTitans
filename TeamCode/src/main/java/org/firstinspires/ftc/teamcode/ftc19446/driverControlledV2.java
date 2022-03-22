@@ -1,6 +1,6 @@
 // MAY NEED TO RECONFIGURE CODE (left stick on gamepad2 is arm movement and left and right trigger is intake)
 
-package org.firstinspires.ftc.teamcode;
+package org.firstinspires.ftc.teamcode.ftc19446;
 
 import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
 import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
